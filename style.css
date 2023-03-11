@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    font-family: 'Ms Madi', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+
+.color-highlight{
+    color: blue;
+}
+.half-width{
+ 
+    width: 30%;
+    float: left;
+   margin-left: 10%;
+   padding-left: 5%;
+   margin-top: 5%;
+}
+
+
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+  padding: 8px 10px;
+    color: white;
+    background-image: linear-gradient(to right, red , yellow);
+    border-radius: 8px;
+    
+}
+.header-area{
+    background-image: url("images/personal-website/header-bg.png");
+    background-repeat: no-repeat;
+}
+.Biography-area{
+    background-image: url("images/personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.work-area image{
+    box-sizing: border-box;
+    /* float: left; */
+    /* width: 25%; */
+    
+    
+}
+.center{
+    text-align: center;
+    
+}
